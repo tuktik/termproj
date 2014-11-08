@@ -1,0 +1,12 @@
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\MainWindow.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\MainWindow.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\App.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor_MarkupCompile.cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.g.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.Properties.Resources.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.csproj.GenerateResource.Cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\bin\Debug\Leditor.exe.config
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\bin\Debug\Leditor.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\bin\Debug\Leditor.pdb
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.pdb
