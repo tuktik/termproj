@@ -10,3 +10,16 @@ C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\bin\Debug\Led
 C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\bin\Debug\Leditor.pdb
 C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.exe
 C:\Users\lee\Documents\Visual Studio 2013\Projects\Leditor\Leditor\obj\Debug\Leditor.pdb
+C:\Users\LEE\Documents\GitHub\termproj\bin\Debug\Leditor.exe.config
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.exe
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.pdb
+C:\Users\LEE\Documents\GitHub\termproj\bin\Debug\Leditor.exe
+C:\Users\LEE\Documents\GitHub\termproj\bin\Debug\Leditor.pdb
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\MainWindow.baml
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\MainWindow.g.cs
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\App.g.cs
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor_MarkupCompile.cache
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.g.resources
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.Properties.Resources.resources
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.csproj.GenerateResource.Cache
+C:\Users\LEE\Documents\GitHub\termproj\obj\Debug\Leditor.csprojResolveAssemblyReference.cache
